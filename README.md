@@ -1,4 +1,4 @@
-# Pneumonia_Detection
+# Pneumonia Detection from X-Ray images
 
 Pneumonia is an infection in the lungs that inflames the air sacs in one or both lungs. It is caused by a bacteria called Streptococcus pneumonia that usually lives in the upper respiratory tract. More than 10 million people in India are affected by this annually. Doctors use a chest X-ray to confirm the infection and its location. Thus developing an automatic system for detecting the disease can help to treat the patients quickly. With the powerful Artificial Intelligence algorithms, the medical field has evolved in a very vast manner.
 
